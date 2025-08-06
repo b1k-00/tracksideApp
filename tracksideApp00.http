@@ -1,0 +1,6 @@
+@tracksideApp00_HostAddress = http://localhost:5086
+
+GET {{tracksideApp00_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
